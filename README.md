@@ -10,4 +10,5 @@ I am a detailed oriented full-stack developer with a keen interest in creating u
 
 [![](https://visitcount.itsvg.in/api?id=AditiChikkali&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![Profile Views](https://komarev.com/ghpvc/?username=AditiChikkali&color=blue)
 
